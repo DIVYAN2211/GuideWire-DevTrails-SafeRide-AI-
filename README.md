@@ -182,7 +182,7 @@ SafeRide AI:
 
 ---
 
-## 🚀 What Makes Us Stand Out (Jury Focus)
+## 🚀 What Makes Us Stand Out 
 
 ✔️ Real-world problem with immediate impact  
 ✔️ Fully automated insurance system  
@@ -201,15 +201,15 @@ SafeRide AI:
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo Video- 2 mins Explanation Video
 
-(Add your link here)
+https://drive.google.com/file/d/1pKMRDWOwSwKViZgWVefnDuufbneBx9m8/view?usp=sharing
 
 ---
 
 ## 🔗 Repository
 
-(Add your GitHub link here)
+https://github.com/DIVYAN2211/GuideWire-DevTrails-SafeRide-AI-
 
 ---
 
