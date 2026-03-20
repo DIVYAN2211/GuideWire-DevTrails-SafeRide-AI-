@@ -206,6 +206,11 @@ SafeRide AI:
 https://drive.google.com/file/d/1pKMRDWOwSwKViZgWVefnDuufbneBx9m8/view?usp=sharing
 
 ---
+## 🔗 UI Prototype-Netlify
+
+https://69bd88806e224239c7af146d--unique-cascaron-441597.netlify.app/
+
+---
 
 ## 🔗 Repository
 
