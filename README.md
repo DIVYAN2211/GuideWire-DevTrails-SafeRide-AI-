@@ -211,7 +211,9 @@ Payment rails can be wired as **sandbox / production** UPI or PG when you go liv
 
 ## Local development (quick)
 
-1. **Backend:** `cd server` → copy `.env.example` to `.env` → `npm install` → `npm run dev` (default port **3001**).  
-2. **Frontend:** from repo root → `npm install` → set `VITE_API_BASE` if needed → `npm run dev`.  
+Application code lives in the `safetouch-income-main/` folder.
 
-Configure MongoDB, `JWT_SECRET`, and API keys in `server/.env` (see `server/.env.example` when available).
+1. **Backend:** `cd safetouch-income-main/server` → copy `.env.example` to `.env` → `npm install` → `npm run dev` (default port **3001**).  
+2. **Frontend:** `cd safetouch-income-main` → `npm install` → set `VITE_API_BASE` if needed → `npm run dev`.  
+
+Configure MongoDB, `JWT_SECRET`, and API keys in `server/.env` (see `server/.env.example`).
