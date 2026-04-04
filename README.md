@@ -187,8 +187,7 @@ Payment rails can be wired as **sandbox / production** UPI or PG when you go liv
 
 ## Links
 
-- **Demo video (2 min):** [Google Drive](https://drive.google.com/file/d/1pKMRDWOwSwKViZgWVefnDuufbneBx9m8/view?usp=sharing)  
-- **UI prototype (Netlify):** [Live app](https://69bd88806e224239c7af146d--unique-cascaron-441597.netlify.app/)  
+- **Demo video (2 min):** [Google Drive](https://drive.google.com/file/d/16PkY8k2zDllSeuCTobxCOMW4tfk1pxqy/view?usp=sharing)  
 - **Repository:** [GitHub — GuideWire-DevTrails-SafeRide-AI](https://github.com/DIVYAN2211/GuideWire-DevTrails-SafeRide-AI-)  
 
 ---
